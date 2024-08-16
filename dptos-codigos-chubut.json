@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
        "id": 256,
-	   "coddpto": "063",
+       "coddpto": "063",
        "departamento": "MARTIRES",
        "cabecera": "LAS PLUMAS",
        "provincia": "CHUBUT"
@@ -1126,7 +1126,7 @@
       "type": "Feature",
       "properties": {
        "id": 257,
-	   "coddpto": "070",
+       "coddpto": "070",
        "departamento": "PASO DE INDIOS",
        "cabecera": "PASO DE LOS INDIOS",
        "provincia": "CHUBUT"
@@ -1195,7 +1195,7 @@
       "type": "Feature",
       "properties": {
        "id": 255,
-	   "coddpto": "056",
+       "coddpto": "056",
        "departamento": "LANGUI\u00d1EO",
        "cabecera": "TECKA",
        "provincia": "CHUBUT"
@@ -8888,7 +8888,7 @@
       "type": "Feature",
       "properties": {
        "id": 253,
-	   "coddpto": "042",
+       "coddpto": "042",
        "departamento": "GAIMAN",
        "cabecera": "GAIMAN",
        "provincia": "CHUBUT"
@@ -8973,7 +8973,7 @@
       "type": "Feature",
       "properties": {
        "id": 258,
-	   "coddpto": "077",
+       "coddpto": "077",
        "departamento": "RAWSON",
        "cabecera": "RAWSON",
        "provincia": "CHUBUT"
@@ -12886,7 +12886,7 @@
       "type": "Feature",
       "properties": {
        "id": 261,
-	   "coddpto": "098",
+       "coddpto": "098",
        "departamento": "TEHUELCHES",
        "cabecera": "JOSE DE SAN MARTIN",
        "provincia": "CHUBUT"
@@ -18151,7 +18151,7 @@
       "type": "Feature",
       "properties": {
        "id": 250,
-	   "coddpto": "021",
+       "coddpto": "021",
        "departamento": "ESCALANTE",
        "cabecera": "COMODORO RIVADAVIA",
        "provincia": "CHUBUT"
@@ -25776,7 +25776,7 @@
       "type": "Feature",
       "properties": {
        "id": 251,
-	   "coddpto": "028",
+       "coddpto": "028",
        "departamento": "FLORENTINO AMEGHINO",
        "cabecera": "CAMARONES",
        "provincia": "CHUBUT"
@@ -38393,7 +38393,7 @@
       "type": "Feature",
       "properties": {
        "id": 252,
-	   "coddpto": "035",
+       "coddpto": "035",
        "departamento": "FUTALEUFU",
        "cabecera": "ESQUEL",
        "provincia": "CHUBUT"
@@ -52322,7 +52322,7 @@
       "type": "Feature",
       "properties": {
        "id": 248,
-	   "coddpto": "007",
+       "coddpto": "007",
        "departamento": "BIEDMA",
        "cabecera": "PUERTO MADRYN",
        "provincia": "CHUBUT"
@@ -65711,7 +65711,7 @@
       "type": "Feature",
       "properties": {
        "id": 262,
-	   "coddpto": "105",
+       "coddpto": "105",
        "departamento": "TELSEN",
        "cabecera": "TELSEN",
        "provincia": "CHUBUT"
@@ -65792,7 +65792,7 @@
       "type": "Feature",
       "properties": {
        "id": 254,
-	   "coddpto": "049",
+       "coddpto": "049",
        "departamento": "GASTRE",
        "cabecera": "GASTRE",
        "provincia": "CHUBUT"
@@ -65913,7 +65913,7 @@
       "type": "Feature",
       "properties": {
        "id": 259,
-	   "coddpto": "084",
+       "coddpto": "084",
        "departamento": "RIO SENGUER",
        "cabecera": "ALTO RIO SENGUER",
        "provincia": "CHUBUT"
@@ -79498,7 +79498,7 @@
       "type": "Feature",
       "properties": {
        "id": 260,
-	   "coddpto": "091",
+       "coddpto": "091",
        "departamento": "SARMIENTO",
        "cabecera": "SARMIENTO",
        "provincia": "CHUBUT"
@@ -79579,7 +79579,7 @@
       "type": "Feature",
       "properties": {
        "id": 249,
-	   "coddpto": "014",
+       "coddpto": "014",
        "departamento": "CUSHAMEN",
        "cabecera": "CUSHAMEN",
        "provincia": "CHUBUT"
